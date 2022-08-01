@@ -20,6 +20,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "release:production": "npx standard-version --message 'chore(release-production): %s\n\n[skip ci]' --no-verify",
+    "release:staging": "npx standard-version --message 'chore(release-staging): %s\n\n[skip ci]' --no-verify --prerelease --skip.changelog=true --skip.tag=true",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

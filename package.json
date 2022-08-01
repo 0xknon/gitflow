@@ -20,7 +20,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "release": "npx standard-version --message 'chore(release): %s\n\n[skip ci]' --no-verify  --skip.tag=true",
+    "release": "npx standard-version --message 'chore(release): %s\n\n[skip ci]' --no-verify",
     "release:develop": "npx standard-version --message 'chore(release-production): %s\n\n[skip ci]' --no-verify  --skip.tag=true",
     "release:production": "npx standard-version --message 'chore(release-production): %s\n\n[skip ci]' --no-verify",
     "release:staging": "npx standard-version --message 'chore(release-staging): %s\n\n[skip ci]' --no-verify --prerelease --skip.changelog=true --skip.tag=true",

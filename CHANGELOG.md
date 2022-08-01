@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.2 (2022-08-01)
+
+
+### Bug Fixes
+
+* put back tag ([0c20bd3](https://github.com/0xknon/gitflow/commit/0c20bd34aa5fa87f227f557f6fda1626671237dd))
+
 ### 0.1.1 (2022-08-01)
 
 

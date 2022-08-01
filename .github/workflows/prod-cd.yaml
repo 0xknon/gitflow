@@ -1,7 +1,8 @@
-name: Deployment to prod
+name: Release for prod
 on:
   push:
     branches:
+      - develop
       - master
 
 jobs:

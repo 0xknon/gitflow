@@ -1,4 +1,4 @@
-name: Deployment to stg
+name: Release for stg
 on:
   push:
     branches:

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.4 (2022-08-04)
+
+
+### Bug Fixes
+
+* update workflow ([5306093](https://github.com/0xknon/gitflow/commit/530609321b6df83e6e822794bfd175144f4ab06f))
+
 ### 0.1.3 (2022-08-04)
 
 ### 0.1.2 (2022-08-01)

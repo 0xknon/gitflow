@@ -1,4 +1,4 @@
-name: Release for stg
+name: Merge to Dev after release
 on:
   pull_request:
     branches:
